@@ -19,6 +19,9 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ],
+    script: [
+      process.env.NODE_ENV === 'production' ? { src: 'https://analytics.thombruce.com/umami.js', 'data-website-id': '659931dc-cf94-47fb-b156-adf5851a3941', async: true, defer: true } : {}
     ]
   },
 
