@@ -4,11 +4,18 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'happy',
+    title: 'Happy',
+    titleTemplate: '%s | Happy',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' }
+      { hid: 'description', name: 'description', content: 'My happiness and well-being blog.' }
+      { hid: 'og:site_name', property: 'og:site_name', content: 'Happy' },
+      { hid: 'og:title', property: 'og:title', content: 'Happy' },
+      { hid: 'og:description', property: 'og:description', content: 'My happiness and well-being blog.' },
+      { hid: 'og:type', property: 'og:type', content: 'website' },
+      { hid: 'og:url', property: 'og:url', content: 'https://happy.thombruce.com/' },
+      { hid: 'og:image', property: 'og:image', content: 'https://happy.thombruce.com/happy.jpg' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
@@ -28,6 +35,7 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
+    '@thombruce/tnt'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules

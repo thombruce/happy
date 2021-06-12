@@ -1,0 +1,6 @@
+@import '@thombruce/tnt';
+
+@font-face {
+  font-family: 'Life Savers';
+  src: url('~assets/fonts/LifeSavers-Bold.ttf') format('truetype');
+}
