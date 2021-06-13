@@ -1,6 +1,6 @@
 ---
 title: The Meaning of Life
-description:
+description: In which I answer the easy question.
 createdAt: 2021-06-11T07:14:04Z
 authors:
   - Thom Bruce
