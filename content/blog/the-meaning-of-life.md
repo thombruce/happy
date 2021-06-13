@@ -6,6 +6,7 @@ authors:
   - Thom Bruce
 categories:
 series:
+  - The Easy Questions
 tags:
   - Life
   - Religion
@@ -64,7 +65,7 @@ But religion and other rigid, traditional structures are sort of a shortcut to b
 
 In each case, there is this hierarchy - a separation between leaders and followers - and if we fail to be critical of this power gradient, it's easily exploited.
 
-And in particular if a system of power attempts to rule that it shouldn't be critically examined, then that's all the more reason it should be. Religion itself has a particularly awful history of this, whereby peoples' faiths are exploited to claim power and then rule is enforced... _just because_. This "_just because_" is justified as being the will of the almighty, but... says who? This same exploitation of power has been used to conquer half the world, persecute huge numbers of people including women, ethnic minorities (and sometimes ethnic majorities), and LGBT+ people. And while religion has been exploited to those ends, other times its been political capital or even poorly represented science of which people were not critical enough.
+And in particular if a system of power attempts to rule that it shouldn't be critically examined, then that's all the more reason it should be. Religion itself has a particularly awful history of this, whereby peoples' faiths are exploited to claim power and then rule is enforced... _just because_. This "_just because_" is justified as being the will of the almighty, but... says who? This same exploitation of power has been used to conquer half the world, persecute huge numbers of people including women, ethnic minorities (and sometimes ethnic majorities), and LGBT+ people. And while religion has been exploited to those ends, other times it's been political capital or even poorly represented science of which people were not critical enough.
 
 Rigid, traditional structures that offer a shortcut to purpose and happiness might be great for individuals - and I really am tremendously happy for my born-again friend - but they also represent a danger for the masses that only results in more misery.
 
