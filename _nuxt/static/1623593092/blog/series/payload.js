@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/series", {data:[{_img:{}}],fetch:{"0":{slug:"series",article:[{slug:"the-easy-questions",title:"The Easy Questions"}]}},mutations:void 0});
