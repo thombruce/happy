@@ -33,8 +33,6 @@ It's happiness. The meaning of life is happiness. Welcome to my <span class='fon
 <ul>
 <li>Criticism of religion</li>
 <li>Existentialism</li>
-<li>Depression</li>
-<li>Medication</li>
 </ul>
 </template>
 </content-warning>

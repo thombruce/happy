@@ -251,10 +251,15 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@babel/parser@^7.1.0", "@babel/parser@^7.14.5", "@babel/parser@^7.6.0", "@babel/parser@^7.9.6":
+"@babel/parser@^7.1.0", "@babel/parser@^7.14.5":
   version "7.14.5"
   resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.14.5.tgz#4cd2f346261061b2518873ffecdf1612cb032829"
   integrity sha512-TM8C+xtH/9n1qzX+JNHi7AN2zHMTiPUtspO0ZdHflW8KaskkALhMmuMHb4bCmNdv9VAPzJX3/bXqkVLnAvsPfg==
+
+"@babel/parser@^7.6.0", "@babel/parser@^7.9.6":
+  version "7.14.6"
+  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.14.6.tgz#d85cc68ca3cac84eae384c06f032921f5227f4b2"
+  integrity sha512-oG0ej7efjEXxb4UgE+klVx+3j4MVo+A2vCzm7OUN4CLo6WhQ+vSOD2yJ8m7B+DghObxtLxt3EfgMWpq+AsWehQ==
 
 "@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining@^7.14.5":
   version "7.14.5"
@@ -1509,7 +1514,7 @@
 
 "@thombruce/tnt@https://github.com/thombruce/tnt":
   version "0.1.0"
-  resolved "https://github.com/thombruce/tnt#c92a669c29569e85ee74182c31b9f184f1293c9a"
+  resolved "https://github.com/thombruce/tnt#ce2cfc5c98e777941086b8349fc78cba18cf770a"
   dependencies:
     "@fortawesome/free-solid-svg-icons" "^5.15.3"
     "@nuxt/image" "^0.4.14"
@@ -8187,9 +8192,9 @@ postcss@^6.0.9:
     supports-color "^5.4.0"
 
 postcss@^8.1.10, postcss@^8.1.6, postcss@^8.2.1, postcss@^8.2.13, postcss@^8.2.15, postcss@^8.3.0:
-  version "8.3.2"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.3.2.tgz#ed3ec489f5428af5740cd6effcc216b4d455ee64"
-  integrity sha512-y1FK/AWdZlBF5lusS5j5l4/vF67+vQZt1SXPVJ32y1kRGDQyrs1zk32hG1cInRTu14P0V+orPz+ifwW/7rR4bg==
+  version "8.3.4"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.3.4.tgz#41ece1c43f2f7c74dc7d90144047ce052757b822"
+  integrity sha512-/tZY0PXExXXnNhKv3TOvZAOUYRyuqcCbBm2c17YMDK0PlVII3K7/LKdt3ScHL+hhouddjUWi+1sKDf9xXW+8YA==
   dependencies:
     colorette "^1.2.2"
     nanoid "^3.1.23"
@@ -9255,9 +9260,9 @@ simple-get@^3.0.3, simple-get@^3.1.0:
     simple-concat "^1.0.0"
 
 simple-icons@^5.0.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-5.1.0.tgz#2bcf4e847fe95d61d5cffe456a2d9a66954220cf"
-  integrity sha512-eYaG95mbAtLCLdIhlXlTsFM+AwVJEwkCDHDGJIYxv8MMgdVcbKH0EligeqKcrbtGlDg06rGtJ5rL22mj0p3wtw==
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-5.2.0.tgz#ed77c74fe8b22813aa8b7cdead8b8e5fa66f474b"
+  integrity sha512-lRKW77ntIlvX9xy92OJqfIvYnm7Extz1GvKWFpVH/xStUO54QiAzYaqz13C8PQSfVP9gLCSA7ONsAMWnfqxu3A==
 
 simple-swizzle@^0.2.2:
   version "0.2.2"
