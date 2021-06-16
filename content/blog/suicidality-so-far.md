@@ -10,6 +10,9 @@ series:
 tags:
   - Suicide
   - Depression
+  - Anxiety
+  - Derealisation
+  - Depersonalisation
 ---
 
 If you're affected by thoughts of suicide or feelings of depression, help is available. You can usually find quick assess to a crisis line on <a href='https://www.google.com/search?q=suicide' target='_blank'>Google</a> and a list of crisis lines around the world on <a href='https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines'>Wikipedia</a>. Phone and text support are each available.
