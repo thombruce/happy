@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "items": [
+        {
+            "id": "https://happy.thombruce.com/blog/suicidality-so-far",
+            "url": "https://happy.thombruce.com/blog/suicidality-so-far",
+            "title": "My Experiences with Suicidality... So Far",
+            "summary": "Discussing my experiences with suicidal ideation.",
+            "date_modified": "2021-06-14T22:05:06.000Z"
+        },
+        {
+            "id": "https://happy.thombruce.com/blog/the-meaning-of-life",
+            "url": "https://happy.thombruce.com/blog/the-meaning-of-life",
+            "title": "The Meaning of Life",
+            "summary": "In which I answer the easy question.",
+            "date_modified": "2021-06-11T07:14:04.000Z"
+        }
+    ]
+}
