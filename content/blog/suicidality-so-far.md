@@ -1,7 +1,7 @@
 ---
 title: My Experiences with Suicidality... So Far
 description: Discussing my experiences with suicidal ideation.
-createdAt: 2021-06-14T22:05:06Z
+date: 2021-06-14T22:05:06Z
 authors:
   - Thom Bruce
 categories:

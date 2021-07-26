@@ -1,7 +1,7 @@
 ---
 title: The Meaning of Life
 description: In which I answer the easy question.
-createdAt: 2021-06-11T07:14:04Z
+date: 2021-06-11T07:14:04Z
 authors:
   - Thom Bruce
 categories:

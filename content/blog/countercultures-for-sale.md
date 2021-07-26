@@ -1,7 +1,7 @@
 ---
 title: Your Counterculture is For Sale
 description:
-createdAt:
+date:
 draft: true
 authors:
   - Thom Bruce

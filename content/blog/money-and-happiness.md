@@ -1,7 +1,7 @@
 ---
 title: Can Money Buy Happiness?
 description:
-createdAt:
+date:
 draft: true
 authors:
   - Thom Bruce

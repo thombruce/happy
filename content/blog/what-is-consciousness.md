@@ -1,7 +1,7 @@
 ---
 title: What is Consciousness?
 description:
-createdAt:
+date:
 draft: true
 authors:
   - Thom Bruce

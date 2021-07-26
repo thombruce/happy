@@ -1,7 +1,7 @@
 ---
 title: Does Free Will Exist
 description:
-createdAt:
+date:
 draft: true
 authors:
   - Thom Bruce

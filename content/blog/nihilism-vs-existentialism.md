@@ -1,7 +1,7 @@
 ---
 title: Nihilism Vs Existentialism
 description:
-createdAt: 2021-06-16T02:47:29Z
+date: 2021-06-16T02:47:29Z
 draft: true
 authors:
   - Thom Bruce
