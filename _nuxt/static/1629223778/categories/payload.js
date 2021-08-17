@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/categories", {data:[{slug:"categories",page:[{slug:"mental-health",title:"Mental Health",path:"\u002Fcategories\u002Fmental-health"}],_img:{}}],fetch:{},mutations:void 0});
